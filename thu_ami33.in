@@ -1,0 +1,553 @@
+Layout 0 0 62 62
+
+Num Cell 33
+bk1 10 10
+bk10a 10 10
+bk10b 10 10
+bk10c 10 10
+bk11 10 10
+bk12 10 10
+bk13 10 10
+bk14a 10 10
+bk14b 10 10
+bk14c 10 10
+bk15a 10 10
+bk15b 10 10
+bk16 10 10
+bk17a 10 10
+bk17b 10 10
+bk18 10 10
+bk19 10 10
+bk2 10 10
+bk20 10 10
+bk21 10 10
+bk3 10 10
+bk4 10 10
+bk5a 10 10
+bk5b 10 10
+bk5c 10 10
+bk6 10 10
+bk7 10 10
+bk8a 10 10
+bk8b 10 10
+bk9a 10 10
+bk9b 10 10
+bk9c 10 10
+bk9d 10 10
+
+Num Pad 38
+VSS 0 5
+VDD 0 10
+P9 0 15
+P8 0 20
+P7 0 25
+P6 0 30
+P5 0 35
+P4 0 40
+P37 0 45
+P36 0 50
+P35 5 62
+P34 10 62
+P33 15 62
+P32 20 62
+P31 25 62
+P30 30 62
+P3 35 62
+P29 40 62
+P28 45 62
+P27 50 62
+P26 55 62
+P25 60 62
+P24 62 5
+P23 62 10
+P22 62 15
+P21 62 20
+P20 62 25
+P2 62 30
+P19 62 35
+P18 62 40
+P17 62 45
+P16 62 60
+P15 5 0
+P14 10 0
+P13 15 0
+P12 20 0
+P11 25 0
+P10 30 0
+
+Num Net 87
+
+net1 33
+bk1
+bk10a
+bk10b
+bk10c
+bk11
+bk12
+bk13
+bk14a
+bk14b
+bk14c
+bk15a
+bk15b
+bk16
+bk17a
+bk17b
+bk18
+bk19
+bk2
+bk20
+bk21
+bk3
+bk4
+bk5a
+bk5b
+bk5c
+bk6
+bk7
+bk8a
+bk8b
+bk9a
+bk9b
+bk9c
+bk9d
+
+net2 30
+bk1
+bk10a
+bk10b
+bk10c
+bk11
+bk12
+bk13
+bk14a
+bk14b
+bk14c
+bk15a
+bk15b
+bk16
+bk17a
+bk17b
+bk18
+bk2
+bk20
+bk21
+bk3
+bk4
+bk5a
+bk5b
+bk5c
+bk6
+bk7
+bk9a
+bk9b
+bk9c
+bk9d
+
+net3 25
+bk1
+bk10a
+bk10b
+bk10c
+bk11
+bk12
+bk13
+bk14b
+bk17a
+bk17b
+bk18
+bk2
+bk20
+bk21
+bk3
+bk4
+bk5a
+bk5b
+bk5c
+bk6
+bk7
+bk9a
+bk9b
+bk9c
+bk9d
+
+net4 29
+bk1
+bk10a
+bk10b
+bk10c
+bk11
+bk12
+bk13
+bk14a
+bk14b
+bk14c
+bk15a
+bk15b
+bk17a
+bk17b
+bk18
+bk2
+bk20
+bk21
+bk3
+bk4
+bk5a
+bk5b
+bk5c
+bk6
+bk7
+bk9a
+bk9b
+bk9c
+bk9d
+
+net5 2
+bk10a
+bk10c
+
+net6 2
+bk9c
+bk9d
+
+net7 2
+P29
+bk10a
+
+net8 2
+bk10a
+bk9d
+
+net9 2
+bk9b
+bk9d
+
+net10 2
+P30
+bk9c
+
+net11 2
+P27
+bk9c
+
+net12 7
+bk10b
+bk11
+bk12
+bk14b
+bk20
+bk9b
+bk9c
+
+net13 2
+bk9a
+bk9c
+
+net14 2
+bk9b
+bk9c
+
+net15 2
+bk10a
+bk9b
+
+net16 3
+bk10a
+bk10b
+bk9b
+
+net17 2
+bk10c
+bk9a
+
+net18 2
+bk8a
+bk8b
+
+net19 2
+bk10b
+bk10c
+
+net20 2
+P31
+bk11
+
+net21 2
+P2
+bk13
+
+net22 2
+P26
+bk13
+
+net23 2
+P4
+bk13
+
+net24 2
+bk14a
+bk14b
+
+net25 3
+bk16
+bk19
+bk8b
+
+net26 2
+bk15a
+bk15b
+
+net27 2
+bk19
+bk8b
+
+net28 2
+P10
+bk15b
+
+net29 2
+P11
+bk15b
+
+net30 2
+P25
+bk15b
+
+net31 2
+bk14b
+bk14c
+
+net32 2
+P8
+bk15b
+
+net33 2
+bk14a
+bk15a
+
+net34 2
+P5
+bk15a
+
+net35 2
+P6
+bk15a
+
+net36 2
+P7
+bk15a
+
+net37 2
+bk14c
+bk15b
+
+net38 3
+bk16
+bk20
+bk8a
+
+net39 2
+bk16
+bk8a
+
+net40 2
+P9
+bk15b
+
+net41 2
+bk14b
+bk16
+
+net42 2
+bk17a
+bk18
+
+net43 2
+bk14c
+bk16
+
+net44 2
+bk16
+bk17b
+
+net45 3
+bk15b
+bk16
+bk8a
+
+net46 2
+VSS
+bk7
+
+net47 2
+VDD
+bk7
+
+net48 2
+P23
+bk7
+
+net49 2
+P22
+bk7
+
+net50 2
+bk17b
+bk7
+
+net51 2
+P21
+bk6
+
+net52 2
+P20
+bk6
+
+net53 2
+P19
+bk6
+
+net54 2
+P18
+bk6
+
+net55 2
+P17
+bk6
+
+net56 2
+bk5c
+bk6
+
+net57 2
+P36
+bk18
+
+net58 3
+bk5b
+bk5c
+bk6
+
+net59 2
+P37
+bk18
+
+net60 3
+bk3
+bk4
+bk6
+
+net61 2
+bk4
+bk6
+
+net62 2
+bk3
+bk5c
+
+net63 2
+bk5a
+bk5b
+
+net64 2
+bk10a
+bk10b
+
+net65 3
+bk2
+bk5a
+bk5b
+
+net66 2
+bk1
+bk5b
+
+net67 2
+P32
+bk19
+
+net68 2
+P33
+bk19
+
+net69 2
+P34
+bk19
+
+net70 2
+bk2
+bk5a
+
+net71 2
+bk4
+bk5a
+
+net72 2
+P14
+bk4
+
+net73 2
+P13
+bk4
+
+net74 2
+P12
+bk4
+
+net75 2
+bk17b
+bk4
+
+net76 2
+bk3
+bk4
+
+net77 2
+P16
+bk3
+
+net78 2
+P15
+bk3
+
+net79 2
+bk15a
+bk3
+
+net80 2
+P3
+bk21
+
+net81 2
+P24
+bk20
+
+net82 3
+bk17b
+bk18
+bk20
+
+net83 2
+bk17a
+bk20
+
+net84 2
+P35
+bk19
+
+net85 2
+P28
+bk2
+
+net86 3
+bk17a
+bk18
+bk20
+
+net87 4
+bk17a
+bk17b
+bk18
+bk20
+
+
